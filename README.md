@@ -11,7 +11,7 @@ https://github.com/settings/tokens
 
 个人版：
 
-<a href="https://repl.it/github/valetzx/githubactivitygraphonreplit">
-  <img alt="Run on Repl.it" src="https://repl.it/badge/github/valetzx/githubactivitygraphonreplit" style="height: 40px; width: 190px;" />
+<a href="https://repl.it/github/xlenco/githubactivitygraphonreplit">
+  <img alt="Run on Repl.it" src="https://repl.it/badge/github/xlenco/githubactivitygraphonreplit" style="height: 40px; width: 190px;" />
 </a>
 
